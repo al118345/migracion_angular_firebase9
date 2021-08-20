@@ -1,4 +1,6 @@
-# Firebaseupdate
+# Actualización a la versión 9 de Firebsae en Angular. 
+
+Para consultar una explicación complete del proyecto visita  la web https://1938.com.es/migracion_firebase
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
 
